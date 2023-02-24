@@ -3,7 +3,7 @@ import time
 
 now = time.strftime("%A %b %d, %Y - %I:%M:%S %p")
 print()
-print(now)
+print("It is", now)
 print()
 
 while True:
